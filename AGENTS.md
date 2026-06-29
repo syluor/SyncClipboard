@@ -1,7 +1,7 @@
 # AGENTS.md
 
 This file provides guidance to Codex (Codex.ai/code) when working with code in this repository.
-
+sada
 ## Project Overview
 
 SyncClipboard is a cross-platform clipboard synchronization tool (Windows/macOS/Linux) with clipboard history management. It supports a standalone ASP.NET Core server, client-built-in server, WebDAV, or S3-compatible storage as the sync backend. Desktop clients use either Avalonia (cross-platform) or WinUI3 (Windows-native) for UI.
